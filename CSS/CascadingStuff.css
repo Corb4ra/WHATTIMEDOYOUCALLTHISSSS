@@ -1,6 +1,4 @@
-head {
-  text-align: centre;
-}
+h1{ text-align: centre; }
 
 
 body {
@@ -9,5 +7,5 @@ body {
   background-size: cover;
   
   font-family: "Comic Sans MS", cursive, sans-serif;
-  font-size: 25px;
+  font-size: 15px;
 }
