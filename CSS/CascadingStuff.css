@@ -10,6 +10,11 @@ h3 {
   margin: auto;
 }
 
+BoxyBoi {
+  background-colour: electricblue;
+  opacity: 0.6;
+ 
+}
 body {
   background-image: url(https://lizardpoint.com/geography/images/maps/world-countries-pale.gif);
   background-repeat: no-repeat;
